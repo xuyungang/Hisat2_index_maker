@@ -19,4 +19,4 @@ bash make_ensmbl_index.sh <release_version> <species_name> [out_directory]
 ## Example
   bash make_ensmbl_index.sh 94 homo_sapiens CRCh38.94 
   
-  after the fished, the index files will be located in the folder GRCh38.94/, including files: genome.fa, index files and matched gtf files.
+  When it's done, the index files will be located in the folder GRCh38.94/, including files: genome.fa, index files and matched gtf files.
